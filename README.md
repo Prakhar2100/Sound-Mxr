@@ -1,4 +1,8 @@
-This is web verion of Sound-Mxr
+# BeatSlicer
+## CODEFLOW HACKATHON
 
-Android application project link ->
-https://github.com/SarthakSavasil/BeatSlicer
+### Team Name - The Bachelors
+### Problem Statement -1
+
+### For the andriod files used in making the apk, visit https://github.com/SarthakSavasil/BeatSlicer
+
